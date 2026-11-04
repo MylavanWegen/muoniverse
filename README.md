@@ -1,0 +1,1 @@
+Raw data is stored on SLF storage (path to be confirmed with supervisor).
