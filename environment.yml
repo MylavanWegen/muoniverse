@@ -1,0 +1,13 @@
+name: muoniverse
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - netcdf4
+  - matplotlib
+  - jupyterlab
+  - ipykernel
