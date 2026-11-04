@@ -1,0 +1,30 @@
+# --- Data (stored on SLF storage, not in Git) ---
+data/raw/
+data/processed/
+
+# --- Generated outputs ---
+figures/
+
+# --- Large data formats, wherever they are ---
+*.nc
+*.h5
+*.hdf5
+*.parquet
+*.zip
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Secrets (passwords, tokens, server logins) ---
+.env
+
+# --- Windows / editor clutter ---
+Thumbs.db
+desktop.ini
+.vscode/
